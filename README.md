@@ -1,161 +1,145 @@
-<h1 align="center">Hi 👋, I'm Atiksoftware</h1>
-# 👁️‍🗨️ About Me
+<div align="center">
+  <h1>Hi 👋, I'm Atiksoftware</h1>
+</div>
 
-I am a multidisciplinary software engineer, systems designer, and technical architect with over a decade of experience in **covert systems development**, **real-time interactive applications**, **custom game engines**, and **AI-powered recovery and management solutions**. I’m not here seeking a job — I lead and own multiple tech initiatives — but rather to leave a bold, unapologetic **technical footprint** of what I’ve built and what I stand for.
+<h2>👁️‍🗨️ About Me</h2>
+<p>I am a multidisciplinary software engineer, systems designer, and technical architect with over a decade of experience in <strong>covert systems development</strong>, <strong>real-time interactive applications</strong>, <strong>custom game engines</strong>, and <strong>AI-powered recovery and management solutions</strong>. I'm not here seeking a job — I lead and own multiple tech initiatives — but rather to leave a bold, unapologetic <strong>technical footprint</strong> of what I've built and what I stand for.</p>
+<hr>
 
----
+<h2>🛰️ Covert Android Agent Systems & Remote Intelligence</h2>
+<p>In earlier phases of my career, I developed <strong>covert Android surveillance software</strong> and <strong>remote intelligence-gathering agents</strong> — not as malware or unauthorized exploits, but as <strong>legally scoped agent systems</strong> used for controlled, professional purposes. These systems were capable of:</p>
+<ul>
+  <li>Remote control & monitoring</li>
+  <li>Live data exfiltration (camera, mic, location, messages, etc.)</li>
+  <li>Persistent and stealthy execution</li>
+  <li>Tailored UIs for centralized control</li>
+</ul>
+<p>This work required intimate knowledge of Android's low-level services, background task scheduling, obfuscation techniques, and remote protocol design.</p>
+<hr>
 
-## 🛰️ Covert Android Agent Systems & Remote Intelligence
+<h2>🎮 Game Servers, Mods, and Anti-Cheat Infrastructure</h2>
+<p>I designed and built complete backend <strong>server control panels</strong>, plugin architectures, and anti-cheat modules for games like <strong>Half-Life</strong>, <strong>Counter-Strike</strong>, and many others. Key accomplishments:</p>
+<ul>
+  <li>Modular plugin systems for real-time gameplay manipulation</li>
+  <li>Anti-cheat systems capable of memory scanning and anomaly detection</li>
+  <li>Scalable server orchestration tools for game instance deployment</li>
+  <li>Integration with player ranking, ban, and statistics services</li>
+</ul>
+<hr>
 
-In earlier phases of my career, I developed **covert Android surveillance software** and **remote intelligence-gathering agents** — not as malware or unauthorized exploits, but as **legally scoped agent systems** used for controlled, professional purposes. These systems were capable of:
+<h2>🔴 TikTakGames: Interactive Live Broadcasting & Gaming</h2>
+<p>As founder of <strong>TikTakGames</strong>, I engineered systems where <strong>live viewer interactions become gameplay mechanics</strong>. We captured every possible signal in real time:</p>
+<ul>
+  <li>🌟 Gifts</li>
+  <li>💬 Comments</li>
+  <li>❤️ Likes</li>
+  <li>👥 Joins/Leaves</li>
+  <li>🔔 Subscriptions</li>
+</ul>
+<p>Technologies used:</p>
+<ul>
+  <li><code>ElectronJS</code> for cross-platform desktop clients</li>
+  <li><code>RabbitMQ</code>, <code>MQTT</code>, and <code>Socket.IO</code> for pub/sub real-time message queuing</li>
+  <li><code>Java</code> and <code>.NET</code> for robust game server-side handling</li>
+  <li><code>Unity</code>, <code>Unreal Engine</code>, and <code>Godot</code> for front-end game experiences</li>
+  <li><code>Lua</code>, <code>C#</code>, and <code>C++</code> for low-level scripting and engine-side logic</li>
+</ul>
+<p>This ecosystem enabled fully synchronized and responsive interactive shows broadcasted at scale.</p>
+<hr>
 
-- Remote control & monitoring
-- Live data exfiltration (camera, mic, location, messages, etc.)
-- Persistent and stealthy execution
-- Tailored UIs for centralized control
+<h2>🧠 AI-Powered Data Recovery — Deep Retrieve Project</h2>
+<p>The <strong>Deep Retrieve Project</strong> evolved into a <strong>distributed AI-powered data recovery framework</strong>, especially focused on <strong>old CCTV and DVR video storage</strong>.</p>
+<ul>
+  <li>Raw sector scanning (byte-level analysis) from damaged drives</li>
+  <li>Parsing and decoding of H.264/H.265 sequences: SPS, PPS, IDR, and Non-IDR frames</li>
+  <li>AI inference to <strong>reconstruct corrupted or missing frames</strong></li>
+  <li>Scene segmentation to detect faces, timestamps, device tags from within the video frame</li>
+  <li>Networked processing with a <strong>GPU-based distributed frame pool</strong></li>
+</ul>
+<p>Unlike conventional tools that require metadata or timecodes, our system identifies visual markers and regenerates playable scenes even from <em>partial bitstreams</em>.</p>
+<hr>
 
-This work required intimate knowledge of Android’s low-level services, background task scheduling, obfuscation techniques, and remote protocol design.
+<h2>✈️ Industrial AI Management Systems for Defense & Aerospace</h2>
+<p>Recently, I've been working on <strong>AI-assisted management systems</strong> tailored for <strong>AS9100 (Aerospace)</strong> and <strong>IATF 16949 (Automotive)</strong> industrial standards:</p>
+<ul>
+  <li>Digitized quality and traceability flows</li>
+  <li>CNC communication integrations with industrial tablets</li>
+  <li>AI-supported audit preparations and process compliance engines</li>
+  <li>Predictive metrics dashboards for executive reporting</li>
+  <li>Modular architecture scalable to complex supply chains</li>
+</ul>
+<p>Although my involvement in defense tech is limited, these management systems are core to optimizing sensitive production processes.</p>
+<hr>
 
----
+<h2>🔊 Signal Intelligence, RF Sniffing & Electronic Warfare Basics</h2>
+<p>At a later stage, I explored aspects of <strong>electronic signal intelligence</strong>:</p>
+<ul>
+  <li>RF signal sniffing, decoding, and fingerprinting</li>
+  <li>Protocol spoofing and simulated signal broadcasting</li>
+  <li>Basic jammer testing and analysis</li>
+  <li>Passive signal logging tools for 433 MHz and other civilian frequencies</li>
+</ul>
+<p>These experiments were conducted both for curiosity and strategic insight, particularly where <strong>signal resilience and spoof detection</strong> were critical.</p>
+<hr>
 
-## 🎮 Game Servers, Mods, and Anti-Cheat Infrastructure
+<h2>🧠 Technologies & Tools</h2>
 
-I designed and built complete backend **server control panels**, plugin architectures, and anti-cheat modules for games like **Half-Life**, **Counter-Strike**, and many others. Key accomplishments:
+<h3>💻 Programming & Scripting Languages</h3>
+<p>C, C++, C#, Java, JavaScript, TypeScript, Python, Kotlin, Dart, PHP, Ruby, Perl, Bash, MATLAB</p>
 
-- Modular plugin systems for real-time gameplay manipulation
-- Anti-cheat systems capable of memory scanning and anomaly detection
-- Scalable server orchestration tools for game instance deployment
-- Integration with player ranking, ban, and statistics services
+<h3>🌐 Web & Mobile Development</h3>
+<p>React, Angular, AngularJS, Vue.js, Svelte, Next.js, Nuxt.js, Gatsby, Ionic, Quasar, React Native, Flutter, Xamarin, NativeScript, Apache Cordova</p>
 
----
+<h3>🧱 Backend & APIs</h3>
+<p>Node.js, Express, Django, Flask, Spring, Laravel, Symfony, Ruby on Rails, CodeIgniter, .NET, PHP, GraphQL, REST</p>
 
-## 🔴 TikTakGames: Interactive Live Broadcasting & Gaming
+<h3>🎨 UI & Styling</h3>
+<p>HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bulma, Materialize, Vuetify</p>
 
-As founder of **TikTakGames**, I engineered systems where **live viewer interactions become gameplay mechanics**. We captured every possible signal in real time:
+<h3>🗃 Databases & Messaging</h3>
+<p>MySQL, PostgreSQL, SQLite, MSSQL, Oracle, MariaDB, MongoDB, CockroachDB, Redis, Firebase, RabbitMQ, Kafka, Elasticsearch</p>
 
-- 🌟 Gifts  
-- 💬 Comments  
-- ❤️ Likes  
-- 👥 Joins/Leaves  
-- 🔔 Subscriptions  
+<h3>🧰 DevOps & Tools</h3>
+<p>Docker, Kubernetes, AWS, Heroku, Linux, NGINX, Git, Webpack, Babel, Puppeteer, Zapier</p>
 
-Technologies used:
+<h3>🔬 Testing & Monitoring</h3>
+<p>Postman, Selenium, Karma, Grafana</p>
 
-- `ElectronJS` for cross-platform desktop clients  
-- `RabbitMQ`, `MQTT`, and `Socket.IO` for pub/sub real-time message queuing  
-- `Java` and `.NET` for robust game server-side handling  
-- `Unity`, `Unreal Engine`, and `Godot` for front-end game experiences  
-- `Lua`, `C#`, and `C++` for low-level scripting and engine-side logic  
+<h3>📈 Data Science & AI</h3>
+<p>TensorFlow, PyTorch, OpenCV, Pandas</p>
 
-This ecosystem enabled fully synchronized and responsive interactive shows broadcasted at scale.
+<h3>📊 Visualization</h3>
+<p>Chart.js, D3.js, CanvasJS</p>
 
----
+<h3>🎮 Game & Interactive Media</h3>
+<p>Unity, Unreal Engine, Blender</p>
 
-## 🧠 AI-Powered Data Recovery — Deep Retrieve Project
+<h3>🎨 Design & Prototyping</h3>
+<p>Adobe Illustrator, Adobe Photoshop</p>
 
-The **Deep Retrieve Project** evolved into a **distributed AI-powered data recovery framework**, especially focused on **old CCTV and DVR video storage**.
+<h3>⚡ Hardware & Embedded</h3>
+<p>Arduino</p>
+<hr>
 
-- Raw sector scanning (byte-level analysis) from damaged drives
-- Parsing and decoding of H.264/H.265 sequences: SPS, PPS, IDR, and Non-IDR frames
-- AI inference to **reconstruct corrupted or missing frames**
-- Scene segmentation to detect faces, timestamps, device tags from within the video frame
-- Networked processing with a **GPU-based distributed frame pool**
+<h2>🧩 Side Projects & Tools</h2>
+<ul>
+  <li>📹 Byte-Level Frame Scanner — reconstructs partial video frames from raw drive images</li>
+  <li>🔍 Live Debug Overlay — attachable to Unity/Unreal games for packet/event inspection</li>
+  <li>🔐 Anti-Cheat Kernel Extensions — pattern matching & process watchdogs</li>
+  <li>📟 Signal Emulator — transmit/receive scripts for 433 MHz device testing</li>
+  <li>🧬 Identity Hashing & Facial Signature Generator for video forensics</li>
+</ul>
+<hr>
 
-Unlike conventional tools that require metadata or timecodes, our system identifies visual markers and regenerates playable scenes even from *partial bitstreams*.
+<h2>🤖 Philosophy</h2>
+<blockquote>
+  <p>"If you can imagine it, you can simulate it. If you can simulate it, you can control it."</p>
+</blockquote>
+<p>Whether it's games, surveillance systems, or signal intercepts, my work is about <strong>understanding the system deeply enough to manipulate or recreate it</strong>. Every tool I build either tells a story or reveals one that was never meant to be told.</p>
+<hr>
 
----
-
-## ✈️ Industrial AI Management Systems for Defense & Aerospace
-
-Recently, I’ve been working on **AI-assisted management systems** tailored for **AS9100 (Aerospace)** and **IATF 16949 (Automotive)** industrial standards:
-
-- Digitized quality and traceability flows
-- CNC communication integrations with industrial tablets
-- AI-supported audit preparations and process compliance engines
-- Predictive metrics dashboards for executive reporting
-- Modular architecture scalable to complex supply chains
-
-Although my involvement in defense tech is limited, these management systems are core to optimizing sensitive production processes.
-
----
-
-## 🔊 Signal Intelligence, RF Sniffing & Electronic Warfare Basics
-
-At a later stage, I explored aspects of **electronic signal intelligence**:
-
-- RF signal sniffing, decoding, and fingerprinting  
-- Protocol spoofing and simulated signal broadcasting  
-- Basic jammer testing and analysis  
-- Passive signal logging tools for 433 MHz and other civilian frequencies  
-
-These experiments were conducted both for curiosity and strategic insight, particularly where **signal resilience and spoof detection** were critical.
-
----
-
-## 🧠 Technologies & Tools
-
-### 💻 Programming & Scripting Languages
-C, C++, C#, Java, JavaScript, TypeScript, Python, Kotlin, Dart, PHP, Ruby, Perl, Bash, MATLAB
-
-### 🌐 Web & Mobile Development
-React, Angular, AngularJS, Vue.js, Svelte, Next.js, Nuxt.js, Gatsby, Ionic, Quasar, React Native, Flutter, Xamarin, NativeScript, Apache Cordova
-
-### 🧱 Backend & APIs
-Node.js, Express, Django, Flask, Spring, Laravel, Symfony, Ruby on Rails, CodeIgniter, .NET, PHP, GraphQL, REST
-
-### 🎨 UI & Styling
-HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bulma, Materialize, Vuetify
-
-### 🗃 Databases & Messaging
-MySQL, PostgreSQL, SQLite, MSSQL, Oracle, MariaDB, MongoDB, CockroachDB, Redis, Firebase, RabbitMQ, Kafka, Elasticsearch
-
-### 🧰 DevOps & Tools
-Docker, Kubernetes, AWS, Heroku, Linux, NGINX, Git, Webpack, Babel, Puppeteer, Zapier
-
-### 🔬 Testing & Monitoring
-Postman, Selenium, Karma, Grafana
-
-### 📈 Data Science & AI
-TensorFlow, PyTorch, OpenCV, Pandas
-
-### 📊 Visualization
-Chart.js, D3.js, CanvasJS
-
-### 🎮 Game & Interactive Media
-Unity, Unreal Engine, Blender
-
-### 🎨 Design & Prototyping
-Adobe Illustrator, Adobe Photoshop
-
-### ⚡ Hardware & Embedded
-Arduino
-
-
----
-
-## 🧩 Side Projects & Tools
-
-- 📹 Byte-Level Frame Scanner — reconstructs partial video frames from raw drive images
-- 🔍 Live Debug Overlay — attachable to Unity/Unreal games for packet/event inspection
-- 🔐 Anti-Cheat Kernel Extensions — pattern matching & process watchdogs
-- 📟 Signal Emulator — transmit/receive scripts for 433 MHz device testing
-- 🧬 Identity Hashing & Facial Signature Generator for video forensics
-
----
-
-## 🤖 Philosophy
-
-> “If you can imagine it, you can simulate it. If you can simulate it, you can control it.”
-
-Whether it's games, surveillance systems, or signal intercepts, my work is about **understanding the system deeply enough to manipulate or recreate it**. Every tool I build either tells a story or reveals one that was never meant to be told.
-
----
-
-## 🧭 Final Word
-
-This profile is not a resume. It’s a **digital monument** to years of obsession, sleepless debugging nights, creative risks, and systems that work in silence. If you're still reading, welcome to the rabbit hole.
- 
-
+<h2>🧭 Final Word</h2>
+<p>This profile is not a resume. It's a <strong>digital monument</strong> to years of obsession, sleepless debugging nights, creative risks, and systems that work in silence. If you're still reading, welcome to the rabbit hole.</p>
 
   
 
