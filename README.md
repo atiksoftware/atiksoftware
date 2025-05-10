@@ -1,50 +1,163 @@
 <h1 align="center">Hi 👋, I'm Atiksoftware</h1>
-<h3>About Me</h3>
-I'm a versatile software developer with a strong passion for exploring various domains. My expertise extends across a wide range of fields, including game hacking, system hacking, social engineering, cybersecurity, artificial intelligence, robotics, and data analysis.
+# 👁️‍🗨️ About Me
 
-I thrive on the challenges presented by these exciting areas, constantly seeking new knowledge and pushing the boundaries of what is possible. With hands-on experience in diverse projects, I have developed a deep understanding of the intricacies and nuances of each field.
+I am a multidisciplinary software engineer, systems designer, and technical architect with over a decade of experience in **covert systems development**, **real-time interactive applications**, **custom game engines**, and **AI-powered recovery and management solutions**. I’m not here seeking a job — I lead and own multiple tech initiatives — but rather to leave a bold, unapologetic **technical footprint** of what I’ve built and what I stand for.
 
-My relentless curiosity and dedication to learning have driven me to acquire skills and knowledge in multiple technologies and methodologies. I enjoy delving into complex problems, devising innovative solutions, and sharing my insights with the broader community.
+---
 
-In addition to my technical prowess, I am a strong advocate for ethical practices and responsible use of technology. I firmly believe that leveraging technology for the greater good can create a positive impact on society.
+## 🛰️ Covert Android Agent Systems & Remote Intelligence
 
-If you're interested in collaborating on projects related to game hacking, system hacking, social engineering, cybersecurity, artificial intelligence, robotics, or data analysis, I would be thrilled to connect with you. Let's explore the possibilities and make a difference together!
+In earlier phases of my career, I developed **covert Android surveillance software** and **remote intelligence-gathering agents** — not as malware or unauthorized exploits, but as **legally scoped agent systems** used for controlled, professional purposes. These systems were capable of:
 
-Feel free to reach out to me to discuss ideas, share knowledge, or explore potential opportunities. I look forward to connecting with fellow enthusiasts and making meaningful contributions to the world of technology.
+- Remote control & monitoring
+- Live data exfiltration (camera, mic, location, messages, etc.)
+- Persistent and stealthy execution
+- Tailored UIs for centralized control
 
-<h3>Works</h3>  
+This work required intimate knowledge of Android’s low-level services, background task scheduling, obfuscation techniques, and remote protocol design.
 
-- 🔍 **Deep Retrive** - Advanced Data Recovery System  
-I'm working on an advanced data recovery system called **Deep Retrive**. This system utilizes cutting-edge techniques to analyze and classify data from security camera recording devices. By examining every byte of the disk, it provides detailed reports and valuable insights for efficient data recovery.  
-Stay tuned for updates on the progress of **Deep Retrive** as it revolutionizes the field of data recovery for security camera systems.
+---
 
-- 🤖🚁 **Raiders** - Autonomous Robotic Systems and Drones  
-I'm working on an exciting project called **Raiders**, which focuses on the development of advanced robotic systems and drones capable of autonomous, coordinated movement using machine learning and electronic communication. This project aims to merge the power of artificial intelligence with robotics to create a new generation of intelligent machines. Through machine learning algorithms, our robotic systems learn from their surroundings, enabling them to make informed decisions and work harmoniously with each other. Additionally, our drones, equipped with cutting-edge sensors and communication modules, enhance the capabilities of our robotic systems, facilitating seamless coordination and real-time data exchange.  
-The **Raiders** project is driven by a passion for pushing the boundaries of technology and aims to revolutionize industries such as logistics, surveillance, and emergency response. Together, we are shaping a future where intelligent machines collaborate and overcome challenges with remarkable efficiency and effectiveness.
+## 🎮 Game Servers, Mods, and Anti-Cheat Infrastructure
 
-- 🎮 **Game Hacking** - Elevating Gaming through Memory Manipulation  
-I specialize in creating game hacks that involve reading game memory and implementing various manipulations or enhancements. By utilizing advanced techniques in memory scanning and manipulation, I develop cheats and modifications that provide players with unique advantages or conveniences within games. I'm passionate about pushing the boundaries of gaming and delivering exciting experiences through innovative game hacking techniques. Let's collaborate and take gaming to new heights with cutting-edge hacks and enhancements!
+I designed and built complete backend **server control panels**, plugin architectures, and anti-cheat modules for games like **Half-Life**, **Counter-Strike**, and many others. Key accomplishments:
 
-- 🔧 I have developed various libraries for Laravel and PHP frameworks that enhance functionality and simplify development. 🚀 These libraries provide enhanced authentication, database interaction, and third-party service integration. They empower developers to build robust web applications efficiently and effortlessly. 💪
+- Modular plugin systems for real-time gameplay manipulation
+- Anti-cheat systems capable of memory scanning and anomaly detection
+- Scalable server orchestration tools for game instance deployment
+- Integration with player ranking, ban, and statistics services
 
-- 🎮 I have created various plugins for games like CS1.6, CS: Source, CS:GO, and other Source Engine-based games. These plugins add new functionalities, enhance gameplay, and improve the overall gaming experience. With a focus on customization and innovation, these plugins offer features such as new game modes, server administration tools, weapon modifications, and much more. By expanding the capabilities of these games, I aim to provide players with exciting and immersive gameplay options that keep them engaged and entertained. 🕹️🔌 
+---
 
-- 📱 I have developed various mobile applications for Android and iOS platforms. These applications provide a wide range of functionalities, including social media integration, data visualization, and data analysis. They are designed to be user-friendly and intuitive, enabling users to perform tasks efficiently and effortlessly. 📱
+## 🔴 TikTakGames: Interactive Live Broadcasting & Gaming
 
-- 🖥️ I have developed various desktop applications for Windows and Linux platforms. These applications provide a wide range of functionalities, including data visualization, data analysis, and system administration. They are designed to be user-friendly and intuitive, enabling users to perform tasks efficiently and effortlessly. 🖥️
+As founder of **TikTakGames**, I engineered systems where **live viewer interactions become gameplay mechanics**. We captured every possible signal in real time:
 
-- 🌐 I have developed various web applications for Windows, MacOS and Linux platforms. These applications provide a wide range of functionalities, including data visualization, data analysis, and system administration. They are designed to be user-friendly and intuitive, enabling users to perform tasks efficiently and effortlessly. 🌐
+- 🌟 Gifts  
+- 💬 Comments  
+- ❤️ Likes  
+- 👥 Joins/Leaves  
+- 🔔 Subscriptions  
 
-- 📚 I have developed various libraries for Python, C++, C#, and Java programming languages. These libraries provide enhanced functionality and simplify development. They empower developers to build robust applications efficiently and effortlessly. 💪
+Technologies used:
 
-- 📊 I have developed various data analysis tools for Windows, MacOS and Linux platforms. These tools provide a wide range of functionalities, including data visualization, data analysis, and system administration. They are designed to be user-friendly and intuitive, enabling users to perform tasks efficiently and effortlessly. 📊
+- `ElectronJS` for cross-platform desktop clients  
+- `RabbitMQ`, `MQTT`, and `Socket.IO` for pub/sub real-time message queuing  
+- `Java` and `.NET` for robust game server-side handling  
+- `Unity`, `Unreal Engine`, and `Godot` for front-end game experiences  
+- `Lua`, `C#`, and `C++` for low-level scripting and engine-side logic  
 
-<h3>More</h3>  
+This ecosystem enabled fully synchronized and responsive interactive shows broadcasted at scale.
 
-- I'm open to exciting collaboration opportunities in various fields. My areas of interest include software development, machine learning, robotics, cybersecurity, and data analysis. I'm particularly interested in projects that involve pushing the boundaries of technology and finding innovative solutions to real-world challenges. If you have a project that aligns with my skill set and interests, I would be thrilled to explore collaboration possibilities. Let's connect and create something amazing together!
+---
 
-- I'm always eager to expand my knowledge and stay up-to-date with the latest advancements in technology. Currently, I am focusing on deepening my understanding of machine learning algorithms and techniques. I'm also actively learning about cloud computing platforms such as AWS and Azure to enhance my skills in developing scalable and robust applications. Additionally, I'm diving into the world of natural language processing (NLP) to explore how it can be applied in various domains.  
-Learning is a continuous journey for me, and I believe in constantly acquiring new skills and exploring emerging technologies. As an avid learner, I'm passionate about staying at the forefront of technological advancements and leveraging them to create innovative solutions. If you have any insights, resources, or projects related to these areas, I would love to hear from you and exchange knowledge to further enrich my learning experience.  
+## 🧠 AI-Powered Data Recovery — Deep Retrieve Project
+
+The **Deep Retrieve Project** evolved into a **distributed AI-powered data recovery framework**, especially focused on **old CCTV and DVR video storage**.
+
+- Raw sector scanning (byte-level analysis) from damaged drives
+- Parsing and decoding of H.264/H.265 sequences: SPS, PPS, IDR, and Non-IDR frames
+- AI inference to **reconstruct corrupted or missing frames**
+- Scene segmentation to detect faces, timestamps, device tags from within the video frame
+- Networked processing with a **GPU-based distributed frame pool**
+
+Unlike conventional tools that require metadata or timecodes, our system identifies visual markers and regenerates playable scenes even from *partial bitstreams*.
+
+---
+
+## ✈️ Industrial AI Management Systems for Defense & Aerospace
+
+Recently, I’ve been working on **AI-assisted management systems** tailored for **AS9100 (Aerospace)** and **IATF 16949 (Automotive)** industrial standards:
+
+- Digitized quality and traceability flows
+- CNC communication integrations with industrial tablets
+- AI-supported audit preparations and process compliance engines
+- Predictive metrics dashboards for executive reporting
+- Modular architecture scalable to complex supply chains
+
+Although my involvement in defense tech is limited, these management systems are core to optimizing sensitive production processes.
+
+---
+
+## 🔊 Signal Intelligence, RF Sniffing & Electronic Warfare Basics
+
+At a later stage, I explored aspects of **electronic signal intelligence**:
+
+- RF signal sniffing, decoding, and fingerprinting  
+- Protocol spoofing and simulated signal broadcasting  
+- Basic jammer testing and analysis  
+- Passive signal logging tools for 433 MHz and other civilian frequencies  
+
+These experiments were conducted both for curiosity and strategic insight, particularly where **signal resilience and spoof detection** were critical.
+
+---
+
+## 🧠 Technologies & Tools
+
+### 💻 Programming & Scripting Languages
+C, C++, C#, Java, JavaScript, TypeScript, Python, Kotlin, Dart, PHP, Ruby, Perl, Bash, MATLAB
+
+### 🌐 Web & Mobile Development
+React, Angular, AngularJS, Vue.js, Svelte, Next.js, Nuxt.js, Gatsby, Ionic, Quasar, React Native, Flutter, Xamarin, NativeScript, Apache Cordova
+
+### 🧱 Backend & APIs
+Node.js, Express, Django, Flask, Spring, Laravel, Symfony, Ruby on Rails, CodeIgniter, .NET, PHP, GraphQL, REST
+
+### 🎨 UI & Styling
+HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bulma, Materialize, Vuetify
+
+### 🗃 Databases & Messaging
+MySQL, PostgreSQL, SQLite, MSSQL, Oracle, MariaDB, MongoDB, CockroachDB, Redis, Firebase, RabbitMQ, Kafka, Elasticsearch
+
+### 🧰 DevOps & Tools
+Docker, Kubernetes, AWS, Heroku, Linux, NGINX, Git, Webpack, Babel, Puppeteer, Zapier
+
+### 🔬 Testing & Monitoring
+Postman, Selenium, Karma, Grafana
+
+### 📈 Data Science & AI
+TensorFlow, PyTorch, OpenCV, Pandas
+
+### 📊 Visualization
+Chart.js, D3.js, CanvasJS
+
+### 🎮 Game & Interactive Media
+Unity, Unreal Engine, Blender
+
+### 🎨 Design & Prototyping
+Adobe Illustrator, Adobe Photoshop
+
+### ⚡ Hardware & Embedded
+Arduino
+
+
+---
+
+## 🧩 Side Projects & Tools
+
+- 📹 Byte-Level Frame Scanner — reconstructs partial video frames from raw drive images
+- 🔍 Live Debug Overlay — attachable to Unity/Unreal games for packet/event inspection
+- 🔐 Anti-Cheat Kernel Extensions — pattern matching & process watchdogs
+- 📟 Signal Emulator — transmit/receive scripts for 433 MHz device testing
+- 🧬 Identity Hashing & Facial Signature Generator for video forensics
+
+---
+
+## 🤖 Philosophy
+
+> “If you can imagine it, you can simulate it. If you can simulate it, you can control it.”
+
+Whether it's games, surveillance systems, or signal intercepts, my work is about **understanding the system deeply enough to manipulate or recreate it**. Every tool I build either tells a story or reveals one that was never meant to be told.
+
+---
+
+## 🧭 Final Word
+
+This profile is not a resume. It’s a **digital monument** to years of obsession, sleepless debugging nights, creative risks, and systems that work in silence. If you're still reading, welcome to the rabbit hole.
+ 
+
+
+  
 
 
 <p align="center">
